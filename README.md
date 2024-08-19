@@ -85,7 +85,6 @@ III. Debugging and troubleshooting issues
 IV. Collaborating with other team members
 V. Staying updated with the latest technologies and programming languages
 
-
 The role of Quality Assurance (QA) Engineer
 A QA Engineer ensures software quality by designing and executing test plans.
 
